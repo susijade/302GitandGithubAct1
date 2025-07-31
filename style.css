@@ -1,0 +1,22 @@
+body.H1{
+    font-size: 1500;
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+
+img{
+    padding-left: 700px;
+    padding-right: 700px;
+    border-image: auto;
+    height: 500px;
+}
+
+h2{
+    font-size: 35px;
+    padding-left: 20%;
+    color: rgb(230, 111, 230);
+}
+
